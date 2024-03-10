@@ -22,16 +22,16 @@ Certifique-se de ter os pré-requisitos instalados antes de executar o aplicativ
 
 1. Clone este repositório para o seu ambiente local:
 
-git clone https://github.com/rodineyw/transcricao_text.git
+   git clone https://github.com/rodineyw/transcricao_text.git
 
 
 2. Instale as dependências:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Execute o aplicativo:
 
-python app.py
+   python app.py
 
 
 ## Como usar
