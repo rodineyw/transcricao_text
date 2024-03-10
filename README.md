@@ -1,3 +1,6 @@
+<img src="img/" alt="Rodiney" width="100" height="100">
+
+
 # Extrator de Texto em Imagem e PDF
 
 Este é um aplicativo simples em Python que permite a leitura de documentos PDF e imagens de baixa qualidade e transcreve o texto para uma área de texto editável. É uma aplicação de desktop que utiliza a biblioteca PyQt5 para a interface gráfica e o Tesseract OCR para a extração de texto de imagens.
@@ -22,17 +25,20 @@ Certifique-se de ter os pré-requisitos instalados antes de executar o aplicativ
 
 1. Clone este repositório para o seu ambiente local:
 
+   ```Python
    git clone https://github.com/rodineyw/transcricao_text.git
-
+   ```
 
 2. Instale as dependências:
 
+   ```Python
    pip install -r requirements.txt
+   ```
+4. Execute o aplicativo:
 
-3. Execute o aplicativo:
-
+   ```Python
    python app.py
-
+   ```
 
 ## Como usar
 
