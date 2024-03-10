@@ -1,0 +1,40 @@
+# Arquivos e diretórios gerados automaticamente
+*.pyc
+__pycache__
+*.so
+*.o
+*.dll
+*.exe
+*.log
+*.swp
+*~
+._*
+
+# Diretório de ambiente virtual Python
+venv/
+env/
+.venv/
+.vscode/
+
+# Arquivos de cache e build
+*.cache
+*.egg-info
+*.egg
+dist/
+build/
+htmlcov/
+.coverage
+
+# Dependências e pacotes
+pip-selfcheck.json
+pip-log.txt
+MANIFEST
+
+# Arquivos de configuração
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outros arquivos específicos
+config.ini
+secrets.ini
