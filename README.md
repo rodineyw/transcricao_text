@@ -45,6 +45,14 @@ Certifique-se de ter os pré-requisitos instalados antes de executar o aplicativ
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para reportar problemas ou sugerir melhorias. Se desejar contribuir com código, por favor, envie um pull request.
 
+## Autor
+
+<img src="https://github.com/rodineyw.png" alt="Rodiney" width="100" height="100">
+
+Rodiney Wanderson
+
+- LinkedIn: [rodineyw](https://www.linkedin.com/in/rodineyw/)
+
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
