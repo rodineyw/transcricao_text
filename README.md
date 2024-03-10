@@ -46,5 +46,3 @@ python app.py
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para reportar problemas ou sugerir melhorias. Se desejar contribuir com código, por favor, envie um pull request.
 
 ## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
