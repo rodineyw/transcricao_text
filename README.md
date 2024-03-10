@@ -1,4 +1,4 @@
-<img src="img/" alt="Rodiney" width="100" height="100">
+<img src="img/capa.png" alt="Rodiney" width="full" height="400">
 
 
 # Extrator de Texto em Imagem e PDF
